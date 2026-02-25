@@ -1,1 +1,1 @@
-# Music Visualizer in open gl work in progress. 
+# Test opengl renderer. 
